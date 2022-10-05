@@ -20,7 +20,7 @@ title                    : "안녕"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "최진주"
-description              : "An amazing website."
+description              : "어마 무시한 웹 사이트"
 url                      : "https://jinju04.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jinju04/jinju04.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
