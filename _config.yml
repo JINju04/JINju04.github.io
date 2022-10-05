@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "jinju choi" "jinju04"
+  name             : "jinju choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "어마 무시한 웹 사이트" "I am an **amazing** person."
+  bio              : "어마 무시한 웹 사이트"
   location         : "Republic of Korea" "Somewhere"
   email            :
   links:
